@@ -1,4 +1,4 @@
-# Bio-sketch of 
+# Bio-sketch of Jin Zhang
 
 Jin Zhang is a Ph.D candidate in the School of Information Science and Engineering, Central South University. His research interests focus on Computer Vision issues with a special emphasis in the area of object re-identification and tracking.Their current project is 'Computer Vision based Froth Flotation Monitoring and Control.'
 
