@@ -3,7 +3,7 @@
 ![Image of My Profile](https://JinCSU.github.io/Jin-Zhang.github.io/photo.jpg)
 
 
-Jin Zhang is a Ph.D candidate in the School of Information Science and Engineering, Central South University. His research interests focus on Computer Vision issues with a special emphasis in the area of object re-identification and tracking.Their current project is 'Computer Vision based Froth Flotation Monitoring and Control.'
+**Jin Zhang is a Ph.D candidate in the School of Information Science and Engineering, Central South University. His research interests focus on Computer Vision issues with a special emphasis in the area of object re-identification and tracking.Their current project is 'Computer Vision based Froth Flotation Monitoring and Control.**
 
 ## GENERAL INFORMATION
 **Gender:** Male  
@@ -40,9 +40,9 @@ University-level Outstanding Postgraduates						2016-2017
 ## PROJECTS
 2018.1 – 2018.12
 Adaptive setpoint generation in machine-vision based industrial process predictive control (No. 502221804)
-  Leader in Project  
-  Using statistic modeling methods to extract image feature, and then analyze the correlation between image feature and product quality  
-  Using fuzzy association rule mining approach constructs setpoint generation module  
+  *Leader in Project  
+  *Using statistic modeling methods to extract image feature, and then analyze the correlation between image feature and product quality  
+  *Using fuzzy association rule mining approach constructs setpoint generation module  
 2018.1 - 2021.12  
 Theory and technology of industrial process data real-time acquisition and knowledge automation (No. U1701261)  
 2018.1 - 2021.12  
