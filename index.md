@@ -1,4 +1,4 @@
-### Welcome to Jin Zhang's Homepage
+# Welcome to Jin Zhang's Homepage
 
 Jin Zhang is a Ph.D candidate in the School of Information Science and Engineering, Central South University. His research interests focus on Computer Vision issues with a special emphasis in the area of object re-identification and tracking.Their current project is 'Computer Vision based Froth Flotation Monitoring and Control.'
 
@@ -10,15 +10,15 @@ Address: Central South University,
          School of Information Science &Engineering
          No.932, Lushan South Road, Changsha, Hunan, China
 
-![Image of My Profile](https://JinCSU.github.com/Jin-Zhang.github.io/photo.jpg)
+![Image of My Profile](https://JinCSU.github.io/Jin-Zhang.github.io/photo.jpg)
     
 ```
 ## EDUCATION
-Ph.D student in Control Science & Engineering 		  2016.9 – till now 
+Ph.D student in Control Science & Engineering       2016.9 – till now 
                                                     Central South University, Hunan, China
-M.S. in Software Engineering 						            2013.9 – 2016.6 
+M.S. in Software Engineering                        2013.9 – 2016.6 
                                                     Central South University, Hunan, China
-B.S. in Automation 						                      2009.9 – 2013.6 
+B.S. in Automation                                  2009.9 – 2013.6 
                                                     Guangzhou College of South China University of Technology, Guangdong, China
 
 ## HONORS
@@ -45,3 +45,6 @@ Adaptive setpoint generation in machine-vision based industrial process predicti
 Theory and technology of industrial process data real-time acquisition and knowledge automation (No. U1701261)
 2018.1 - 2021.12
 Distributed Machine-Vision Perception-Based Intelligent Operation State Evaluation for Complex Industrial Process Monitoring (No. 61472134)
+
+## RESEARCH INTERESTS
+Computer vision based sensing technique plays an important role in process industry monitoring, for the reason that hardware measuring instruments are unavailable or costly. However, hand-crafted image features are designed according to domain knowledge and usually they are adjusted to a specific working condition of the plant. Convolutional neural network is an important technique to encode the feature of object appearances. And it does not need to pay additional attention like hand-crafted image features to transfer a model trained in one domain to others domains. Thus, it brings a huge amount of conveniences to design a soft-sensor for process industry monitoring.
