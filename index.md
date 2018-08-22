@@ -14,7 +14,7 @@ Jin Zhang is a Ph.D candidate in the School of Information Science and Engineeri
          School of Information Science &Engineering  
          No.932, Lushan South Road, Changsha, Hunan, China  
 
-```
+
 ## EDUCATION
 Ph.D student in Control Science & Engineering       2016.9 – till now  
                                                     Central South University, Hunan, China  
