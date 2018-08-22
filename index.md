@@ -6,11 +6,12 @@ Gender: Male
 Date of Birth: 4/18/1990
 Telephone: (+86)18273127006
 E-mail: zhang_jin@csu.edu.cn
-Address: Central South University, 
+Address: Central South University,
          School of Information Science &Engineering
          No.932, Lushan South Road, Changsha, Hunan, China
 
-[Link](url) and ![Image](src)
+![Image of My Profile](https://JinCSU.github.com/Jin-Zhang.github.io/photo.jpg)
+    
 ```
 ## EDUCATION
 Ph.D student in Control Science & Engineering 		  2016.9 – till now 
