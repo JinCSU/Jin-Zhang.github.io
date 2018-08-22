@@ -1,8 +1,6 @@
 ## Welcome to Jin Zhang's Homepage
 
-You can use the [editor on GitHub](https://github.com/JinCSU/JinZhang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Jin Zhang is a Ph.D candidate in the School of Information Science and Engineering, Central South University. His research interests focus on Computer Vision issues with a special emphasis in the area of object re-identification and tracking.Their current project is 'Computer Vision based Froth Flotation Monitoring and Control.'
 
 ### Markdown
 
