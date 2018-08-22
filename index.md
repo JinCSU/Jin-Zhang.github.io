@@ -2,11 +2,12 @@
 
 Jin Zhang is a Ph.D candidate in the School of Information Science and Engineering, Central South University. His research interests focus on Computer Vision issues with a special emphasis in the area of object re-identification and tracking.Their current project is 'Computer Vision based Froth Flotation Monitoring and Control.'
 
-Gender: Male  
-Date of Birth: 4/18/1990  
-Telephone: (+86)18273127006  
-E-mail: zhang_jin@csu.edu.cn  
-Address: Central South University,  
+## GENERAL INFORMATION
+**Gender:** Male  
+**Date of Birth:** 4/18/1990  
+**Telephone:** (+86)18273127006  
+**E-mail:** zhang_jin@csu.edu.cn  
+**Address:** Central South University,  
          School of Information Science &Engineering  
          No.932, Lushan South Road, Changsha, Hunan, China  
 
