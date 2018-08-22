@@ -2,28 +2,28 @@
 
 Jin Zhang is a Ph.D candidate in the School of Information Science and Engineering, Central South University. His research interests focus on Computer Vision issues with a special emphasis in the area of object re-identification and tracking.Their current project is 'Computer Vision based Froth Flotation Monitoring and Control.'
 
-Gender: Male
-Date of Birth: 4/18/1990
-Telephone: (+86)18273127006
-E-mail: zhang_jin@csu.edu.cn
-Address: Central South University,
-         School of Information Science &Engineering
-         No.932, Lushan South Road, Changsha, Hunan, China
+Gender: Male 
+Date of Birth: 4/18/1990 
+Telephone: (+86)18273127006 
+E-mail: zhang_jin@csu.edu.cn 
+Address: Central South University, 
+         School of Information Science &Engineering 
+         No.932, Lushan South Road, Changsha, Hunan, China 
 
 ![Image of My Profile](https://JinCSU.github.io/Jin-Zhang.github.io/photo.jpg)
     
 ```
 ## EDUCATION
 Ph.D student in Control Science & Engineering       2016.9 – till now 
-                                                    Central South University, Hunan, China
-M.S. in Software Engineering                        2013.9 – 2016.6 
-                                                    Central South University, Hunan, China
+                                                    Central South University, Hunan, China 
+M.S. in Software Engineering                        2013.9 – 2016.6  
+                                                    Central South University, Hunan, China 
 B.S. in Automation                                  2009.9 – 2013.6 
-                                                    Guangzhou College of South China University of Technology, Guangdong, China
+                                                    Guangzhou College of South China University of Technology, Guangdong, China 
 
 ## HONORS
-National scholarship for doctoral students						2016-2017
-University-level Outstanding Postgraduates						2016-2017
+National scholarship for doctoral students						2016-2017 
+University-level Outstanding Postgraduates						2016-2017 
 
 ## PUBLICATIONS
 [1] **Jin Zhang**, Zhaohui Tang, Mingxi Ai, Weihua Gui. Nonlinear modeling of the relationship between reagent dosage and flotation froth surface image by Hammerstein-Wiener model[J]. Minerals Engineering, 2018: 19-28.
