@@ -18,6 +18,7 @@
 ## EDUCATION
 Ph.D student in Control Science & Engineering    I   2016.9 – till now  
                                                     Central South University, Hunan, China  
+------------------------------------------ | ---------------------------------------------
 M.S. in Software Engineering            I            2013.9 – 2016.6   
                                                     Central South University, Hunan, China  
 B.S. in Automation                  I                2009.9 – 2013.6  
