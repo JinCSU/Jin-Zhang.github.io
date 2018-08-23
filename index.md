@@ -26,7 +26,7 @@ B.S. in Automation                                                &#160;&#160;&#
 Guangdong, China  
 
 ## HONORS
-× 2016-2017                                                                                                           &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;                      National scholarship for doctoral students		
+× 2016-2017                                                                                                           &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;                      National scholarship for doctoral students  
 × 2016-2017                                                                                                                   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;                         University-level Outstanding Postgraduates		
 
 ## PUBLICATIONS
