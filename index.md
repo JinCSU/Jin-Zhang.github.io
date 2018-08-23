@@ -26,8 +26,8 @@ B.S. in Automation                                                &#160;&#160;&#
 Guangdong, China  
 
 ## HONORS
-× 2016-2017                                                                                                           &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;                      National scholarship for doctoral students  
-× 2016-2017                                                                                                                   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;                         University-level Outstanding Postgraduates		
+2016-2017                                                                                                           &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;                      National scholarship for doctoral students  
+2016-2017                                                                                                                   &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;                         University-level Outstanding Postgraduates		
 
 ## PUBLICATIONS
 [1] **Jin Zhang**, Zhaohui Tang, Mingxi Ai, Weihua Gui. Nonlinear modeling of the relationship between reagent dosage and flotation froth surface image by Hammerstein-Wiener model[J]. Minerals Engineering, 2018: 19-28.  
