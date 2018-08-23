@@ -18,10 +18,9 @@
 ## EDUCATION
 Ph.D student in Control Science & Engineering &#160;&#160;&#160;&#160;&#160;&#160; 2016.9 – till now  
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Central South University, Hunan, China  
------------------------------------------- | ---------------------------------------------
-M.S. in Software Engineering            I            2013.9 – 2016.6   
+M.S. in Software Engineering &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 2013.9 – 2016.6   
                                                     Central South University, Hunan, China  
-B.S. in Automation                  I                2009.9 – 2013.6  
+B.S. in Automation &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 2009.9 – 2013.6  
                                                     Guangzhou College of South China University of Technology, Guangdong, China  
 
 ## HONORS
